@@ -1,0 +1,2 @@
+# Release artifacts (AAB, keystore-adjacent files, store creatives) — built locally, not versioned
+/release
